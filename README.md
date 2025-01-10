@@ -1,11 +1,11 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+for freelance work? do reach, [email](mailto:cofm34@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
 TypeScript   16 hrs 3 mins   ███████████████████▓░░░░░   78.42 %
-Python       3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JavaScripts  3 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
 JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
@@ -15,7 +15,7 @@ HTML         4 mins          ░░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -28,7 +28,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cofm34&show_icons=true&theme=gotham" alt="cofm34" />
 
 
 
