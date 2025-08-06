@@ -52,9 +52,7 @@
 
 <p align="center">
 <a href="https://www.kinetdev.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kinetdev.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/cofm34/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/cofm34/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://discord.gg/UgGdpFz2hF"><img alt="Discord" src="https://img.shields.io/badge/Discord-Kinet%20Dev-blue?style=flat-square&logo=discord"></a>
+<a href="https://youtube.com/cofm34/"><img alt="Instagram" src="https://img.shields.io/badge/Youtube-cofm34-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:cofm34@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cofm34@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [cofm34](https://github.com/cofm34)
