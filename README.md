@@ -12,7 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=007396)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
